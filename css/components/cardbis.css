@@ -13,5 +13,12 @@
     margin-top: 170px;
     font-size: 20px;
     margin-left: 20%;
+	width: 500px;
+	justify-content: space-between;
+	border radius: 6px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
 
 }
+
