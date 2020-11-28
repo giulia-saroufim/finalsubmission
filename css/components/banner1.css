@@ -1,4 +1,4 @@
-.banner {
+.banner1 {
 	background-image: url(../../images/homepage.jpg);
 	color: white;
 	padding: 100px 0px;
@@ -6,12 +6,12 @@
 	background-position: center;
 }
 
-.banner h1 {
+.banner1 h1 {
 	font-size: 40px;
 	text-align: right;
 }
 
-.banner h2 {
+.banner1 h2 {
 	margin-bottom: 50px;
 	font-weight: lighter;
 }
