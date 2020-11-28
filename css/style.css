@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap" rel="stylesheet");
+@import url("components/cardbis.css");
 @import url("components/container.css");
 @import url("components/avatar.css");
 @import url("components/button.css");
