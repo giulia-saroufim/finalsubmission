@@ -1,4 +1,4 @@
-.card {
+.card4 {
 	width: 500px;
 	align-items: left;
 	justify-content: space-between;
@@ -14,7 +14,7 @@
 
 }
 
-.card img {
+.card4 img {
 	padding: 60px;
 	align-items: center;
 	width: 400px;
@@ -24,7 +24,7 @@
 	
 }
 
-.card2 img {
+.card4 img {
 	align-items: center;
 	width: 500px;
 	height: 500px;
@@ -32,7 +32,7 @@
 	box-shadow: 10px;
 }
 
-.card2 {
+.card4 {
     float: right !important;
     left: 709px;
     display: inline-block;
@@ -41,12 +41,12 @@
     margin-left: 20%;
 }
 
-.card2 > h1 {
+.card4 > h1 {
     font-family: 'Quicksans', sans-serif;
 }
 
 
-.card > h1 {
+.card4 > h1 {
     font-family: 'Quicksans', sans-serif;
     font-style: normal;
     color: black;
