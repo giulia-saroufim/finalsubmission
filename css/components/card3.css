@@ -1,5 +1,5 @@
 
-.card {
+.card3 {
 	padding: 20px;
 	width: 600px;
 	align-items: center;
@@ -17,7 +17,7 @@
 }
 
 
-.card img {
+.card3 img {
 	padding: 30px;
 	align-items: center;
 	width: 180px;
@@ -28,7 +28,7 @@
 }
 
 
-.card h3 {
+.card3 h3 {
 	flex-grow: 1;
 	padding-left: 20px;
 	font-size: 50px;
@@ -36,7 +36,7 @@
 
 }
 
-.card > input {
+.card3 > input {
     border: 0;
     display: block;
     margin-top: 5% !important;
