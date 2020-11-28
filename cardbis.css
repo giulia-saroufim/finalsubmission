@@ -1,0 +1,17 @@
+.cardbis img {
+	align-items: center;
+	width: 500px;
+	height: 500px;
+	justify-content: space-between;
+	box-shadow: 10px;
+}
+
+.cardbis {
+    float: right !important;
+    left: 709px;
+    display: inline-block;
+    margin-top: 170px;
+    font-size: 20px;
+    margin-left: 20%;
+
+}
