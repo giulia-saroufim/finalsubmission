@@ -1,4 +1,4 @@
-.card {
+.card2 {
 	width: 500px;
 	align-items: left;
 	justify-content: space-between;
@@ -14,7 +14,7 @@
 
 }
 
-.card img {
+.card2 img {
 	padding: 60px;
 	align-items: center;
 	width: 400px;
@@ -46,7 +46,7 @@
 }
 
 
-.card > h1 {
+.card2 > h1 {
     font-family: 'Quicksans', sans-serif;
     font-style: normal;
     color: black;
